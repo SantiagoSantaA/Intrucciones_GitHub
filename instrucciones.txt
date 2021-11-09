@@ -3,4 +3,4 @@
 3. Dar clicl en el botón de control de codigo fuente.
 4. Inicializar repositorio
 5. Agregar el commit para los cambios hechos, luego se sube con Ctrl+Enter y dar clicl en 'Si'.
-6. Por ultimo sincronizar con GitHub, se despliega si el repositorio será publico o privado.
+6. Por ultimo Publicar cambios en GitHub, se despliega si el repositorio será publico o privado.
